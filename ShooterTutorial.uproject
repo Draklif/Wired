@@ -12,10 +12,6 @@
 			]
 		},
 		{
-			"Name": "AchievementSystem",
-			"Enabled": true
-		},
-		{
 			"Name": "SkeletalMeshModelingTools",
 			"Enabled": true
 		}
