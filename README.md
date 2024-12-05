@@ -35,3 +35,18 @@ To run this project, either:
    git clone https://github.com/Draklif/Wired.git
    cd wired
 * **Download the latest release**
+
+## Contributing
+
+Contributions are welcome! If you’d like to add features or fix issues, feel free to submit a pull request or open an issue for discussion.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contact  
+
+If you’d like to connect, please reach out:  
+- **Email**: josemanrenteria@gmail.com  
+- **GitHub**: [Draklif](https://github.com/Draklif)  
+
